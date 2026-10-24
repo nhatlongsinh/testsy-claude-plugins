@@ -1,0 +1,13 @@
+{
+  "name": "testsy",
+  "owner": {
+    "name": "Testsy"
+  },
+  "description": "Testsy QA workflows and workspace connection.",
+  "plugins": [
+    {
+      "name": "testsy",
+      "source": "./plugins/testsy"
+    }
+  ]
+}
