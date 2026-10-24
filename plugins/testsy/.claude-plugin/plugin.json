@@ -9,10 +9,7 @@
   },
   "homepage": "https://testsy.dev/docs/mcp/",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nhatlongsinh/testsy-integrations"
-  },
+  "repository": "https://github.com/nhatlongsinh/testsy-integrations",
   "keywords": [
     "testing",
     "qa",
